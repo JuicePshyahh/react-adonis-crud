@@ -30,10 +30,11 @@ Run the following command to run startup migrations.
 adonis migration:run
 ``` -->
 # SETUP
+or manually clone the repo and then run `npm install`.
 1. npm i
 2. cp .env.example .env
 3. adonis key:generate
-4. change DB_connection to mysql and DB_DATABASE to tasks
+4. change DB_connection to mysql and DB_DATABASE to 'tasks'
 Open terminal and run
 5. npm run watch 
 6. adonis serve --dev
