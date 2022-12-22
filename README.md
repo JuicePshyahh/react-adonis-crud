@@ -29,7 +29,7 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ``` -->
-# crudtest
+# SETUP
 1. npm i
 2. cp .env.example .env
 3. adonis key:generate
