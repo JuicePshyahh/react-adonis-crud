@@ -1,4 +1,4 @@
-# Adonis fullstack application
+<!-- # Adonis fullstack application
 
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
 
@@ -28,5 +28,13 @@ Run the following command to run startup migrations.
 
 ```js
 adonis migration:run
-```
+``` -->
 # crudtest
+1. npm i
+2. cp .env.example .env
+3. adonis key:generate
+4. change DB_connection to mysql and DB_DATABASE to tasks
+Open terminal and run
+5. npm run watch 
+6. adonis serve --dev
+
