@@ -30,6 +30,7 @@ Run the following command to run startup migrations.
 adonis migration:run
 ``` -->
 # SETUP
+Download ```
 or manually clone the repo and then run `npm install`.
 1. npm i
 2. cp .env.example .env
