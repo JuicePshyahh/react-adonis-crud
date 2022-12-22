@@ -35,7 +35,7 @@ or manually clone the repo and then run `npm install`.
 2. cp .env.example .env
 3. adonis key:generate
 4. change DB_connection to mysql and DB_DATABASE to 'tasks'
-Open terminal and run
-5. npm run watch 
-6. adonis serve --dev
+5. Open terminal and run
+6. npm run watch 
+7. adonis serve --dev
 
